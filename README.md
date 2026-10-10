@@ -61,3 +61,4 @@ organização de código e desenvolvimento de software.
 ## Contato
 
 - [GitHub](https://github.com/LeftSon13)
+- [Cartão de visita digital](https://joao-cartao-links.pages.dev/)
